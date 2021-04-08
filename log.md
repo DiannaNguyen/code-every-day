@@ -16,7 +16,7 @@
 
 **Link(s) to work**: https://www.codewars.com/kata/56f6919a6b88de18ff000b36/train/javascript
 
-### Day 1: April 7, 2021
+### Day 2: April 7, 2021
 
 **Today's Progress**: Started learning React Native
 
