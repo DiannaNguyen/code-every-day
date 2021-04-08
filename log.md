@@ -16,12 +16,12 @@
 
 **Link(s) to work**: https://www.codewars.com/kata/56f6919a6b88de18ff000b36/train/javascript
 
-<!-- ### Day 1: June 27, Monday
+### Day 1: April 7, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started learning React Native
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Really excited to learn - had a little trouble setting up. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]() -->
+https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ
+& LinkedIn Learning - Become a React Developer: Section 1: React Native Essential Training
