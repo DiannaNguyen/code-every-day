@@ -43,9 +43,10 @@
 
 **Today's Progress**: React Native - all day, everyday
 
-**Thoughts** 
+**Thoughts** So. Many. Tutorials. - and I'm still kind of lost... but we're going to make it work 👌, we're just going to get started and see what happens
 
 **Link(s) to work**
+1. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz)
 
 ## Day 6: April 11, 2021
 
