@@ -21,16 +21,41 @@
 
 ## Day 3: April 8, 2021
 
-**Today's Progress**: React Native - Building an App, YouTube Follow Along
+**Today's Progress**: React Native - Understanding the components of React Native, YouTube Follow Along
 
-**Thoughts** So far so good, I feel like as a young person I do everything mostly from my phone so to be able to create apps designed for mobile use is fantastic.
+**Thoughts** So far so good, I feel like as a young person I do everything mostly from my phone so to be able to create apps designed for mobile use is fantastic. Also really cool that it's like on my phone :)
 
 **Link(s) to work**
 1. [Follow along for updates](https://twitter.com/diannathedev)
 2. [YouTube tutorial I am coding alongside to](https://www.youtube.com/watch?v=0-S5a0eXPoc&list=PLTjRvDozrdlxzQet01qZBt-sRG8bbDggv)
-3. [Finish Product from tutorial]()
 
 ## Day 4: April 9, 2021
+
+**Today's Progress**: DJANGO & more React Native
+
+**Thoughts** Switching my mind from React Native to Django tested me a little, but we're doing and it's all good. Was a little discouraged concerning my Hack Week Project (learning and creating an application through React Native). I feel really behind (haven't started code just reading documentation and videos about React Native) - not mental okay atm - but I believe I will make it through and create an application (even if it might not look so good => functionality is key)
+
+**Link(s) to work**
+1. [React Native Documentation](https://reactnative.dev/docs/getting-started)
+2. [Come along for the journey on Twitter](https://twitter.com/diannathedev)
+
+## Day 5: April 10, 2021
+
+**Today's Progress**: React Native - all day, everyday
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 6: April 11, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 7: April 12, 2021
 
 **Today's Progress**: 
 
