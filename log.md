@@ -59,10 +59,60 @@
 2. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz)
 3. [The Emotional Cycle of Change - Reference](https://th.bing.com/th/id/OIP.l73K4ZoI-ZeGbaRLWwrHnwHaFj?w=263&h=197&c=7&o=5&dpr=2&pid=1.7)
 
-## Day 7: April 12, 2021
+## Day 7: April 12, 2021 - MONDAY
 
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s) to work**
+
+<!--
+## Day 8: April 13, 2021 - TUESDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 9: April 14, 2021 - WEDNESDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 10: April 15, 2021 - THURSDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 11: April 16, 2021 - FRIDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 12: April 17, 2021 - SATURDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+## Day 13: April 18, 2021 - SUNDAY
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+--!>
