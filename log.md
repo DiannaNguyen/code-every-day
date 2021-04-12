@@ -33,7 +33,7 @@
 
 **Today's Progress**: DJANGO & more React Native
 
-**Thoughts** Switching my mind from React Native to Django tested me a little, but we're doing and it's all good. Was a little discouraged concerning my Hack Week Project (learning and creating an application through React Native). I feel really behind (haven't started code just reading documentation and videos about React Native) - not mental okay atm - but I believe I will make it through and create an application (even if it might not look so good => functionality is key)
+**Thoughts** Switching my mind from React Native to Django tested me a little, but we're doing and it's all good. Was a little discouraged concerning my Hack Week Project (learning and creating an application through React Native). I feel really behind (haven't started code just reading documentation and videos about React Native) - not mental okay atm - but I believe I will make it through and create an application (even if it might not look so good => functionality is key).
 
 **Link(s) to work**
 1. [React Native Documentation](https://reactnative.dev/docs/getting-started)
@@ -43,18 +43,21 @@
 
 **Today's Progress**: React Native - all day, everyday
 
-**Thoughts** So. Many. Tutorials. - and I'm still kind of lost... but we're going to make it work 👌, we're just going to get started and see what happens
+**Thoughts** So. Many. Tutorials. - and I'm still kind of lost... but we're going to make it work 👌, we're just going to get started and see what happens.
 
 **Link(s) to work**
 1. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz)
 
 ## Day 6: April 11, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Wow... so React Native
 
-**Thoughts** 
+**Thoughts** React Native is amazing, but the ups and downs of my emotional cycle of change this week has been drastic. I was definitely riding the line of the valley of despair - but at a bright 4/5AM, I hit euphoria and things started to click for me. So maybe I haven't been too scorned by React Native.
 
 **Link(s) to work**
+1. [Twitter saw it first- so follow me](https://twitter.com/diannathedev)
+2. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz)
+3. [The Emotional Cycle of Change - Reference](https://th.bing.com/th/id/OIP.l73K4ZoI-ZeGbaRLWwrHnwHaFj?w=263&h=197&c=7&o=5&dpr=2&pid=1.7)
 
 ## Day 7: April 12, 2021
 
