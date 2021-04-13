@@ -14,7 +14,7 @@
 
 **Today's Progress:** React Native
 
-**Thoughts** Really excited to learn - had a little trouble setting up. 
+**Thoughts:** Really excited to learn - had a little trouble setting up. 
 
 **Link(s) to work**
 1. [Keep updated on my progress/feelings on learning React Native](https://twitter.com/diannathedev)
@@ -24,7 +24,7 @@
 
 **Today's Progress:** React Native - Understanding the components of React Native, YouTube Follow Along
 
-**Thoughts** So far so good, I feel like as a young person I do everything mostly from my phone so to be able to create apps designed for mobile use is fantastic. Also really cool that it's like on my phone :)
+**Thoughts:** So far so good, I feel like as a young person I do everything mostly from my phone so to be able to create apps designed for mobile use is fantastic. Also really cool that it's like on my phone :)
 
 **Link(s) to work**
 1. [Follow along for updates](https://twitter.com/diannathedev)
@@ -44,7 +44,7 @@
 
 **Today's Progress:** React Native - all day, everyday
 
-**Thoughts** So. Many. Tutorials. - and I'm still kind of lost... but we're going to make it work 👌, we're just going to get started and see what happens.
+**Thoughts:** So. Many. Tutorials. - and I'm still kind of lost... but we're going to make it work 👌, we're just going to get started and see what happens.
 
 **Link(s) to work**
 1. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz)
@@ -53,7 +53,7 @@
 
 **Today's Progress:** Wow... so React Native
 
-**Thoughts** React Native is amazing, but the ups and downs of my emotional cycle of change this week has been drastic. I was definitely riding the line of the valley of despair - but at a bright 4/5AM, I hit euphoria and things started to click for me. So maybe I haven't been too scorned by React Native.
+**Thoughts:** React Native is amazing, but the ups and downs of my emotional cycle of change this week has been drastic. I was definitely riding the line of the valley of despair - but at a bright 4/5AM, I hit euphoria and things started to click for me. So maybe I haven't been too scorned by React Native.
 
 **Link(s) to work**
 1. [Twitter saw it first- so follow me](https://twitter.com/diannathedev)
@@ -64,7 +64,7 @@
 
 **Today's Progress:** CodeWars - 8 kyu Kata
 
-**Thoughts** I definitely needed a little brain break from React Native - felt good to revert back a little and simply problems solve in vanilla javascript
+**Thoughts:** I definitely needed a little brain break from React Native - felt good to revert back a little and simply problems solve in vanilla javascript
 
 **Link(s) to work**
 1. [CodeWars: Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)
@@ -72,15 +72,16 @@
 
 ## Day 8: April 13, 2021
 
-**Today's Progress:**: 
+**Today's Progress:** CodeWars - 8 kyu Kata: A Needle in a Haystack
 
-**Thoughts** 
+**Thoughts:** This Tuesday is feeling like a Monday, and this kata took me longer to figure out than I would like to admit. I think I'm coming off the high of having a functioning app for my Hack Week Project for my cohort @General Assembly, and I need sleep.
 
 **Link(s) to work**
 1. [CodeWars: A Needle in a HayStack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
-2. [CodeWars: Solution]()
-3. [Hack Week Project Progress]()
+2. [CodeWars: Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%208/ANeedleinaHaystack.js)
+3. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz/commits/main)
 4. [Twitter - Live Demo of Hack Week Project](https://twitter.com/diannathedev/status/1381990633812983808?s=20)
+
 <!--
 ## Day 9: April 14, 2021 - WEDNESDAY
 
