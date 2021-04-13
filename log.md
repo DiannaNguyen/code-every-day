@@ -8,6 +8,7 @@
 **Link(s) to work** 
 1. [Twitter - Follow me @diannathedev](https://twitter.com/diannathedev)
 2. [Codewars: 101 Dalmatians - squash the bugs, not the dogs!](https://www.codewars.com/kata/56f6919a6b88de18ff000b36/train/javascript)
+3. [Codewars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%201/101Dalmatians.js)
 
 ## Day 2: April 7, 2021
 
@@ -67,6 +68,7 @@
 
 **Link(s) to work**
 1. [CodeWars: Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)
+2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%207/OppositesAttract.js)
 
 <!--
 ## Day 8: April 13, 2021 - TUESDAY
