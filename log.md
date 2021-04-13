@@ -66,7 +66,7 @@
 **Thoughts** I definitely needed a little brain break from React Native - felt good to revert back a little and simply problems solve in vanilla javascript
 
 **Link(s) to work**
-1. [CodeWards: Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)
+1. [CodeWars: Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)
 
 <!--
 ## Day 8: April 13, 2021 - TUESDAY
