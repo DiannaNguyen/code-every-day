@@ -70,15 +70,18 @@
 1. [CodeWars: Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083)
 2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%207/OppositesAttract.js)
 
-<!--
-## Day 8: April 13, 2021 - TUESDAY
+## Day 8: April 13, 2021
 
 **Today's Progress:**: 
 
 **Thoughts** 
 
 **Link(s) to work**
-
+1. [CodeWars: A Needle in a HayStack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+2. [CodeWars: Solution]()
+3. [Hack Week Project Progress]()
+4. [Twitter - Live Demo of Hack Week Project](https://twitter.com/diannathedev/status/1381990633812983808?s=20)
+<!--
 ## Day 9: April 14, 2021 - WEDNESDAY
 
 **Today's Progress:**: 
