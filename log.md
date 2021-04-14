@@ -82,15 +82,16 @@
 3. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz/commits/main)
 4. [Twitter - Live Demo of Hack Week Project](https://twitter.com/diannathedev/status/1381990633812983808?s=20)
 
-<!--
-## Day 9: April 14, 2021 - WEDNESDAY
+## Day 9: April 14, 2021
 
-**Today's Progress:**: 
+**Today's Progress:** Django REST framework - Token Auth
 
-**Thoughts:** 
+**Thoughts:** The setup for Django is a little confusing - the startproject and the startapp (especially when you're trying to keep semantic). Overall, Django has a very easy implementation compared to Node.js concerning user auth. 
 
 **Link(s) to work:**
+1. [Explore my GitHub Profile README.md!](https://github.com/DiannaNguyen/DiannaNguyen/blob/main/README.md)
 
+<!--
 ## Day 10: April 15, 2021 - THURSDAY
 
 **Today's Progress:**
