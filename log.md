@@ -99,7 +99,7 @@
 
 **Link(s) to work:**
 1. [CodeWars: Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
-2. [CodeWars: My Solution]()
+2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%2010/RemoveFirstAndLastCharacter.py)
 
 <!--
 ## Day 11: April 16, 2021 - FRIDAY
