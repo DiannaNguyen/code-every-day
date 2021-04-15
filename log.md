@@ -78,7 +78,7 @@
 
 **Link(s) to work:**
 1. [CodeWars: A Needle in a HayStack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
-2. [CodeWars: Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%208/ANeedleinaHaystack.js)
+2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%208/ANeedleinaHaystack.js)
 3. [Hack Week Project Progress](https://github.com/DiannaNguyen/quiz/commits/main)
 4. [Twitter - Live Demo of Hack Week Project](https://twitter.com/diannathedev/status/1381990633812983808?s=20)
 
@@ -91,15 +91,17 @@
 **Link(s) to work:**
 1. [Explore my GitHub Profile README.md!](https://github.com/DiannaNguyen/DiannaNguyen/blob/main/README.md)
 
-<!--
-## Day 10: April 15, 2021 - THURSDAY
+## Day 10: April 15, 2021
 
-**Today's Progress:**
+**Today's Progress:** CodeWars - 8 kyu Kata: Remove First and Last Character in Python
 
 **Thoughts:** 
 
 **Link(s) to work:**
+1. [CodeWars: Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+2. [CodeWars: My Solution]()
 
+<!--
 ## Day 11: April 16, 2021 - FRIDAY
 
 **Today's Progress:** 
