@@ -118,7 +118,7 @@
 **Thoughts:** It is finally hitting me that the program is ending... crazy how fast it has gone. I started my capstone project.
 
 **Link(s) to work:**
-1. [Capstone Project Progress] (https://github.com/DiannaNguyen/alignment)
+1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
 
 ## Day 13: April 18, 2021
 
@@ -127,7 +127,7 @@
 **Thoughts:** I have decided to tackle React Native again for my final capstone project and I'm slowing starting to get it more and more.
 
 **Link(s) to work:**
-1. [Capstone Project Progress] (https://github.com/DiannaNguyen/alignment)
+1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
 
 <!--
 ## Day 14: April 19, 2021 - MONDAY
