@@ -95,7 +95,7 @@
 
 **Today's Progress:** CodeWars - 8 kyu Kata: Remove First and Last Character in Python
 
-**Thoughts:** 
+**Thoughts:** I definitely still need to practice more with python, but I'm getting it slowly but surely.
 
 **Link(s) to work:**
 1. [CodeWars: Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
