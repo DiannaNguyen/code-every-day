@@ -101,14 +101,15 @@
 1. [CodeWars: Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%2010/RemoveFirstAndLastCharacter.py)
 
-<!--
 ## Day 11: April 16, 2021 - FRIDAY
 
-**Today's Progress:** 
+**Today's Progress:** Technical Interviews - Dun dun duuunnnn
 
-**Thoughts:** 
+**Thoughts:** Doing mock technical interviews was so scary - I felt really unprepared and nervous, even though it was with my cohorts/ friends. However, I understand the importance of practicing and becoming more comfortable talking about my thought process and explaining termnology. 
 
 **Link(s) to work:**
+1. [CodeWars: Greatest Common Divisor](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
+2. [CodeWars: My Solution]()
 
 ## Day 12: April 17, 2021 - SATURDAY
 
@@ -119,6 +120,71 @@
 **Link(s) to work:**
 
 ## Day 13: April 18, 2021 - SUNDAY
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+<!--
+## Day 14: April 19, 2021 - MONDAY
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 15: April 20, 2021 - Tuesday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 16: April 21, 2021 - Wednesday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 17: April 22, 2021 - Thursday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 18: April 23, 2021 - Friday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 19: April 24, 2021 - Saturday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 20: April 25, 2021 - Sunday
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:**
+
+## Day 21: April 26, 2021 - Monday
 
 **Today's Progress:** 
 
