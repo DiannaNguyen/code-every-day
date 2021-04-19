@@ -101,7 +101,7 @@
 1. [CodeWars: Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%2010/RemoveFirstAndLastCharacter.py)
 
-## Day 11: April 16, 2021 - FRIDAY
+## Day 11: April 16, 2021
 
 **Today's Progress:** Technical Interviews - Dun dun duuunnnn
 
@@ -111,21 +111,23 @@
 1. [CodeWars: Greatest Common Divisor](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
 2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%2011/GreatestCommonDivisor.py)
 
-## Day 12: April 17, 2021 - SATURDAY
+## Day 12: April 17, 2021
 
-**Today's Progress:**
+**Today's Progress:** PROJECT 4!!!
 
-**Thoughts:** 
-
-**Link(s) to work:**
-
-## Day 13: April 18, 2021 - SUNDAY
-
-**Today's Progress:** 
-
-**Thoughts:** 
+**Thoughts:** It is finally hitting me that the program is ending... crazy how fast it has gone. I started my capstone project.
 
 **Link(s) to work:**
+1. [Capstone Project Progress] (https://github.com/DiannaNguyen/alignment)
+
+## Day 13: April 18, 2021
+
+**Today's Progress:** Grinding on the React Native life
+
+**Thoughts:** I have decided to tackle React Native again for my final capstone project and I'm slowing starting to get it more and more.
+
+**Link(s) to work:**
+1. [Capstone Project Progress] (https://github.com/DiannaNguyen/alignment)
 
 <!--
 ## Day 14: April 19, 2021 - MONDAY
