@@ -109,7 +109,7 @@
 
 **Link(s) to work:**
 1. [CodeWars: Greatest Common Divisor](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
-2. [CodeWars: My Solution]()
+2. [CodeWars: My Solution](https://github.com/DiannaNguyen/code-every-day/blob/main/Day%2011/GreatestCommonDivisor.py)
 
 ## Day 12: April 17, 2021 - SATURDAY
 
