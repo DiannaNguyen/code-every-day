@@ -129,7 +129,6 @@
 **Link(s) to work:**
 1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
 
-<!--
 ## Day 14: April 19, 2021 - MONDAY
 
 **Today's Progress:** 
@@ -138,6 +137,7 @@
 
 **Link(s) to work:**
 
+<!--
 ## Day 15: April 20, 2021 - Tuesday
 
 **Today's Progress:** 
