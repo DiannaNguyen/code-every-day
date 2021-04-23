@@ -139,22 +139,24 @@
 1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
 2. [Udemy: Zero to Mastery: React Native Course ($)](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks)
 
-<!--
-## Day 15: April 20, 2021 - Tuesday
 
-**Today's Progress:** 
+## Day 15: April 20, 2021
 
-**Thoughts:** 
+**Today's Progress:** react native tutorials 🤙 - wooooo
 
-**Link(s) to work:**
-
-## Day 16: April 21, 2021 - Wednesday
-
-**Today's Progress:** 
-
-**Thoughts:** 
+**Thoughts:** Still living the digital nomad life, went to the park to enjoy the nice weather and some good ole wifi connection. Project 4 is coming slow and steady 🐢
 
 **Link(s) to work:**
+1. [Come along for my journey of wifi hopping via Twitter](https://twitter.com/diannathedev)
+
+## Day 16: April 21, 2021
+
+**Today's Progress:** Another day at the park - coding out my app
+
+**Thoughts:** stressed but add a little but of ✨ spice ✨ - had quite a few break-downs, but we pulled through and got some logic to render on the simulator
+
+**Link(s) to work:**
+1. [Capstone/Project 4 Progress](https://github.com/DiannaNguyen/alignment)
 
 ## Day 17: April 22, 2021 - Thursday
 
@@ -172,6 +174,7 @@
 
 **Link(s) to work:**
 
+<!--
 ## Day 19: April 24, 2021 - Saturday
 
 **Today's Progress:** 
