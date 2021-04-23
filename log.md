@@ -133,7 +133,7 @@
 
 **Today's Progress:** Zero to Mastery - React Native Course
 
-**Thoughts:** *~stressed~* the internet went out at the house, so I've been travel around the city to get wifi/use my hotspot. Is this what being a digital nomad feels like???
+**Thoughts:** ~ stressed ~ the internet went out at the house, so I've been travel around the city to get wifi/use my hotspot. Is this what being a digital nomad feels like???
 
 **Link(s) to work:**
 1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
