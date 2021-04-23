@@ -133,7 +133,7 @@
 
 **Today's Progress:** Zero to Mastery - React Native Course
 
-**Thoughts:** ~ stressed ~ the internet went out at the house, so I've been travel around the city to get wifi/use my hotspot. Is this what being a digital nomad feels like???
+**Thoughts:** ~ stressed ~ The internet went out at the house, so I've been travel around the city to get wifi/use my hotspot. Is this what being a digital nomad feels like???
 
 **Link(s) to work:**
 1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
@@ -142,7 +142,7 @@
 
 ## Day 15: April 20, 2021
 
-**Today's Progress:** react native tutorials 🤙 - wooooo
+**Today's Progress:** React native tutorials 🤙 - wooooo
 
 **Thoughts:** Still living the digital nomad life, went to the park to enjoy the nice weather and some good ole wifi connection. Project 4 is coming slow and steady 🐢
 
@@ -153,18 +153,19 @@
 
 **Today's Progress:** Another day at the park - coding out my app
 
-**Thoughts:** stressed but add a little but of ✨ spice ✨ - had quite a few break-downs, but we pulled through and got some logic to render on the simulator
+**Thoughts:** Stressed but add a little but of ✨ spice ✨ - had quite a few break-downs, but we pulled through and got some logic to render on the simulator
 
 **Link(s) to work:**
 1. [Capstone/Project 4 Progress](https://github.com/DiannaNguyen/alignment)
 
-## Day 17: April 22, 2021 - Thursday
+## Day 17: April 22, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Working and grinding making a daily horoscope app 🔮
 
-**Thoughts:** 
+**Thoughts:** Finally. Things are appearing on the screen correctly. Lots and lots of research on react native components. Definitely need to work on committing my changes!
 
 **Link(s) to work:**
+1. [Project - Progress ✨](https://github.com/DiannaNguyen/alignment)
 
 ## Day 18: April 23, 2021 - Friday
 
