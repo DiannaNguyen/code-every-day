@@ -129,13 +129,15 @@
 **Link(s) to work:**
 1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
 
-## Day 14: April 19, 2021 - MONDAY
+## Day 14: April 19, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Zero to Mastery - React Native Course
 
-**Thoughts:** 
+**Thoughts:** *~stressed~* the internet went out at the house, so I've been travel around the city to get wifi/use my hotspot. Is this what being a digital nomad feels like???
 
 **Link(s) to work:**
+1. [Capstone Project Progress](https://github.com/DiannaNguyen/alignment)
+2. [Udemy: Zero to Mastery: React Native Course ($)](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks)
 
 <!--
 ## Day 15: April 20, 2021 - Tuesday
