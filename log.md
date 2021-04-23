@@ -167,13 +167,15 @@
 **Link(s) to work:**
 1. [Project - Progress ✨](https://github.com/DiannaNguyen/alignment)
 
-## Day 18: April 23, 2021 - Friday
+## Day 18: April 23, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Hit MVP on my project 🥳 - now to some stretch goals!
 
-**Thoughts:** 
+**Thoughts:** I'm finally feeling like I'm getting it and things are clicking.
 
 **Link(s) to work:**
+1. [Project Progress](https://github.com/DiannaNguyen/alignment)
+2. [Keep up with my Twitter to follow my journey!](https://twitter.com/diannathedev)
 
 <!--
 ## Day 19: April 24, 2021 - Saturday
